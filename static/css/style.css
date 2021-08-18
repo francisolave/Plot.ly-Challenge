@@ -1,0 +1,9 @@
+html body .jumbotron {
+  background-color: rgba(224, 202, 223, 0.97);
+  color: rgb(70, 165, 70);
+  width:fit-content;
+}
+
+html body {
+  background-image: url("../images/bacteria.jpg");
+}
